@@ -14332,7 +14332,7 @@ msgstr ""
 "Düsendurchmesser berechnet."
 
 msgid "Spiral starting flow ratio"
-msgstr ""
+msgstr "Startflussverhältnis der Spirale"
 
 #, fuzzy, c-format, boost-format
 msgid ""
@@ -14347,7 +14347,7 @@ msgstr ""
 "Fällen zu einer Unterextrusion am Anfang der Spirale führen kann."
 
 msgid "Spiral finishing flow ratio"
-msgstr ""
+msgstr "Endflussverhältnis der Spirale"
 
 #, fuzzy, c-format, boost-format
 msgid ""
